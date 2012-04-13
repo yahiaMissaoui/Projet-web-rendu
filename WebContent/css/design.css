@@ -1,0 +1,58 @@
+body {
+	background: white;
+}
+
+td,th {
+	padding: .5em;
+}
+
+#research{
+	 margin: auto;
+	
+}
+
+
+#entete
+{
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+}
+
+
+#entete table
+{
+	background: black;
+    list-style-type: none;
+    width: 100%;
+
+}
+
+#entete td
+{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+#et1
+{
+    text-align: left;
+}
+#et2
+{
+    text-align: right;
+}
+#entete a
+{
+    font-size: 1.3em;
+    color: #f0f0f0;
+    padding-bottom: 3px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#entete a:hover
+{
+    color: white;
+    border-bottom: 3px solid white;
+}
